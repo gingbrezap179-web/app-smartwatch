@@ -1,0 +1,7 @@
+{
+  "name": "SafeGuard Home",
+  "description": "Personal safety dashboard with real-time status monitoring and emergency contact access.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
